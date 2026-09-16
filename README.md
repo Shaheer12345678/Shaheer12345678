@@ -17,6 +17,7 @@ Git, GitHub, VS Code, Linux/WSL, Arduino, Raspberry Pi Pico
 OOP, design patterns (Strategy, Observer, Decorator), multithreading, REST APIs, data structures & algorithms
 
 ---
+
 ## 🌟 Featured Projects
 
 📌 [lru-bench](https://github.com/Shaheer12345678/lru-bench) Three C++20 LRU cache designs (mutex-guarded, intrusive-arena, sharded) sharing one correctness suite. Validated by a committed mutation campaign and ASan/UBSan/TSan in CI.
@@ -30,6 +31,9 @@ OOP, design patterns (Strategy, Observer, Decorator), multithreading, REST APIs,
 📌 [cpp-log-profiler](https://github.com/Shaheer12345678/cpp-log-profiler) Lightweight C++ profiling/logging tool using RAII and `<chrono>`. Measures runtime of functions and blocks of code.
 
 📌 [Student-Records-REST-API-Course-Project](https://github.com/Shaheer12345678/Student-Records-REST-API-Course-Project-) REST API built in Python for managing student data. Demonstrates routing, controller separation, and CRUD operations.
+
+<br>
+
 ---
 
 ## 🎯 Currently Learning
