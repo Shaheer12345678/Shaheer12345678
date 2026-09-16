@@ -17,7 +17,6 @@ Git, GitHub, VS Code, Linux/WSL, Arduino, Raspberry Pi Pico
 OOP, design patterns (Strategy, Observer, Decorator), multithreading, REST APIs, data structures & algorithms
 
 ---
-
 ## 🌟 Featured Projects
 
 📌 [lru-bench](https://github.com/Shaheer12345678/lru-bench) Three C++20 LRU cache designs (mutex-guarded, intrusive-arena, sharded) sharing one correctness suite. Validated by a committed mutation campaign and ASan/UBSan/TSan in CI.
